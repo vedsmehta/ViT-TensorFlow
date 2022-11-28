@@ -4,8 +4,6 @@ A small little repo for my paper replication on ViTs. The original paper can be 
 
 https://arxiv.org/pdf/2010.11929.pdf
 
-### Note:
-This repository is not meant for development purposes and is only meant to show a small replica of a ViT.
 
 ## Usage
 1. Download the cifar-100 dataset and unzip it. The dataset can be downloaded here:
